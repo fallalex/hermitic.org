@@ -1,0 +1,16 @@
+# Default to deny all under root
+/*
+
+# These are the folders I am most interested in ignoring
+# Listing them is redundant given the above rule
+/themes/
+/public/
+/resources/_gen/
+
+# Allowlist
+!/.gitignore
+!/archetypes/
+!/config.toml
+!/content/
+!/docs/
+!/static/
